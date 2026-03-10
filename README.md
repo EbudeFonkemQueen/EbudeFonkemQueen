@@ -1,12 +1,55 @@
-- 👋 Hi, I’m @EbudeFonkemQueen
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning c programming 
-- 💞️ I’m looking to collaborate on learning other programming languages 
-- 📫 How to reach me ...
-- 😄 Pronouns: she
-- ⚡ Fun fact: 
+# Hi there 👋 I'm Queen Ebude
 
-<!---
-EbudeFonkemQueen/EbudeFonkemQueen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Student Developer | DevOps Enthusiast  
+🌱 Passionate about learning new technologies and building practical projects  
+🚀 Currently improving my programming and problem-solving skills
+
+---
+
+## 🔧 Technologies & Tools
+
+**Programming**
+- Java
+
+**Development Tools**
+- Git
+- GitHub
+- Command Line
+
+**Concepts I'm Learning**
+- Regular Expressions (Regex)
+- Input Validation
+- String Processing
+
+**Web Development**
+- HTML
+- CSS (Basics)
+
+**DevOps (Learning Path)**
+- Git workflows
+- Automation concepts
+- CI/CD fundamentals
+
+---
+
+## 📚 What I'm currently working on
+
+- Java projects for **data cleaning and input validation**
+- Practicing **regex and string manipulation**
+- Learning **Git and version control**
+- Exploring **DevOps principles**
+
+---
+
+## 🎯 Goals
+
+- Become a skilled **Software Developer**
+- Grow into **DevOps and automation**
+- Build **real-world projects**
+- Contribute to **open source**
+
+---
+
+## 🌍 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/ebude-queen
